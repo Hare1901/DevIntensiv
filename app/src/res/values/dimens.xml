@@ -1,5 +1,5 @@
 <resources>
-    <!--vertical space-->
+    <!--vertical_space-->
     <dimen name = "status_bar">24dp</dimen>
     <dimen name = "toolbar_small">56</dimen>
     <dimen name = "toolbar">64dp</dimen>
