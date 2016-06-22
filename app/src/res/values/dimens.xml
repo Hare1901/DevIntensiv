@@ -1,17 +1,17 @@
 <resources>
-    <!--vertical space-->
-     <dimen name = "status_bar">24dp</dimen>
-     <dimen name = "toolbar_small">56</dimen>
-     <dimen name = "toolbar">64dp</dimen>
-     <dimen name = "between_areas">8dp</dimen>
-     <dimen name = "subtitle">48dp</dimen>
-     <dimen name = "title_small">72dp</dimen>
-     <dimen name = "title">80dp</dimen>
-     <dimen name = "list_item_small">56dp</dimen>
-     <dimen name = "list_item_medium">64dp</dimen>
-     <dimen name = "list_item_big">72dp</dimen>
+    <!--vertical_space-->
+    <dimen name = "status_bar">24dp</dimen>
+    <dimen name = "toolbar_small">56</dimen>
+    <dimen name = "toolbar">64dp</dimen>
+    <dimen name = "between_areas">8dp</dimen>
+    <dimen name = "subtitle">48dp</dimen>
+    <dimen name = "title_small">72dp</dimen>
+    <dimen name = "title">80dp</dimen>
+    <dimen name = "list_item_small">56dp</dimen>
+    <dimen name = "list_item_medium">64dp</dimen>
+    <dimen name = "list_item_big">72dp</dimen>
 
-     <!--keylines-->
+    <!--keylines-->
 
 
     <dimen name ="indentations_small">16dp</dimen>
